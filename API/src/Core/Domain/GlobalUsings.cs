@@ -1,0 +1,1 @@
+﻿global using API.Domain.Common.Contracts;

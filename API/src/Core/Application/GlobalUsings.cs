@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using API.Application.Common.Events;
+global using API.Application.Common.Exceptions;
+global using API.Application.Common.FileStorage;
+global using API.Application.Common.Interfaces;
+global using API.Application.Common.Models;
+global using API.Application.Common.Persistence;
+global using API.Application.Common.Specification;
+global using API.Application.Common.Validation;
+global using API.Domain.Catalog;
+global using API.Domain.Common;
+global using API.Domain.Common.Contracts;
+global using API.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
